@@ -1,0 +1,1 @@
+This project contains sample code for Google Analytics
